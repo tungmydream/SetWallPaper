@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SetWallpaper</string>
+    <string name="phuc_app">Phuc App</string>
+    <string name="action_settings">Settings</string>
+    <string name="set">Set Wallpaper</string>
+
+</resources>
